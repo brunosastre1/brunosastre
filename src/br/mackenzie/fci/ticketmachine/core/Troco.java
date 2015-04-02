@@ -1,7 +1,6 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+ * Bruno Sastre - 41316861
+*/
 package br.mackenzie.fci.ticketmachine.core;
 
 import java.util.Iterator;
